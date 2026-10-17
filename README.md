@@ -8,19 +8,20 @@
 
 
 ## Project Team & Roles
+
 ** Manya Johri (Team Leader & UI Designer)**
-	• **My Role:** Project Manager and Interface Designer.
-	• **What I Did:** Coded the main desktop application windows, the navigation buttons, text layout spaces, and the 
+	- **My Role:** Project Manager and Interface Designer.
+	- **What I Did:** Coded the main desktop application windows, the navigation buttons, text layout spaces, and the 
                       color themes using Python Tkinter.
 					  
 ** Aditi Pandey (Backend Programmer)**
-	• **Her Role:** Data Structures and Logic Developer.
-	• **What She Did:** Wrote the C code framework, defined the struct Node templates, and programmed the push() and pop() 
+	- **Her Role:** Data Structures and Logic Developer.
+	- **What She Did:** Wrote the C code framework, defined the struct Node templates, and programmed the push() and pop() 
                         memory methods.
 						
  **Anushka Saboo (Integration & Safety Tester)**
-	• **Her Role:** Code Linker and Quality Assurance Inspector.
-	• **What She Did:** Built the transfer.txt file bridge between Python and C, and verified that data deletes safely    
+	- **Her Role:** Code Linker and Quality Assurance Inspector.
+	- **What She Did:** Built the transfer.txt file bridge between Python and C, and verified that data deletes safely    
                         from RAM.
 
 ## How Our Project Works
